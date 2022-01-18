@@ -2,9 +2,9 @@
   <footer>
     <Logo />
     <a 
-      href="https://github.com/yunjungheo"
+      href="https://github.com/LeezyLazyCrazy"
       target="_blank">
-      (c){{ new Date().getFullYear() }} YUNJUNG
+      (c){{ new Date().getFullYear() }} LEEZY
       </a>
   </footer>
 </template>
