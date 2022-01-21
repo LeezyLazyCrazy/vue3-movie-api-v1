@@ -1,0 +1,6 @@
+1. npm run dev:netlify  ERR
+2. targetport 8079 404 ERR
+3. about.js image 경로 체크
+4. All done 
+- localhost:8888 
+- https://condescending-varahamihira-967235.netlify.app/
